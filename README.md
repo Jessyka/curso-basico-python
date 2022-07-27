@@ -68,4 +68,5 @@ Condicional:
 6. Calcular IMC do usuário IMC = Massa (kg) ÷ Altura (m)2 E informe se o usuário está com sobrepeso (IMC maior que 25)
 7. Faça um programa que converta uma temperatura em graus Fahrenheit em Celsius: C = 5 * ((F-32) / 9)
 8. Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
+9. Escreva um programa que calcula o desconto previdenciário de um funcionário. Dado um salário, o programa deve retornar o valor do desconto proporcional ao mesmo.  O cálculo segue a regra: o desconto é de 11% do valor do salário, entretanto, o valor máximo de desconto é 334,29, o que seja menor.
 
