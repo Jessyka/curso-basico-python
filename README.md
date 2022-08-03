@@ -70,3 +70,12 @@ Condicional:
 8. Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
 9. Escreva um programa que calcula o desconto previdenciário de um funcionário. Dado um salário, o programa deve retornar o valor do desconto proporcional ao mesmo.  O cálculo segue a regra: o desconto é de 11% do valor do salário, entretanto, o valor máximo de desconto é 334,29, o que seja menor.
 
+**Terceira aula**
+
+Comandos de repetição - Usado para que uma rotina seja executa repetidas vezes.
+Podemos implementar rotinas de repetições com 2 comandos diferentes ```while``` e ```for```
+~~~python
+for item in lista:
+    print item
+~~~
+
