@@ -79,3 +79,9 @@ for item in lista:
     print item
 ~~~
 
+1. Faça um Programa que dado um determinado vetor numérico, imprima o maior valor.
+2. Faça um Programa que dado um determinado vetor numérico, mostre na tela o elemento do vetor e se o valor é positivo ou negativo.
+3. Faça um Programa que dado um determinado vetor de notas, imprima as notas dos alunos aprovados por média.
+4. Faça um Programa que dado um determinado vetor de nomes, imprima os valores iniciados com a letra b.
+5. Faça um Programa que dado um determinado vetor de nomes ```['laranja', 'banana', 'abacate', 'manga']```, imprima os nomes no plural.
+
